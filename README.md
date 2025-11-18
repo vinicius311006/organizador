@@ -34,4 +34,4 @@ Diferente de scripts simples, este software possui uma **Interface Gráfica Amig
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU-USUARIO/organizador-arquivos.git](https://github.com/SEU-USUARIO/organizador-arquivos.git)
+git clone [https://github.com/vinicius311006/organizador](https://github.com/vinicius311006/organizador)
